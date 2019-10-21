@@ -26,4 +26,4 @@ eureka:
     #租约续约间隔时间，默认30秒
     lease-renewal-interval-in-seconds: 30
 test:
-  message: hello!
+  message: hello!欢迎来到深圳黑马特训营
